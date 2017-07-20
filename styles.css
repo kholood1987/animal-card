@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+h3 {margin-left: 10px;
+}
+
+.img-bird {
+	width: 300px;
+	margin-top: 10px;
+	padding-bottom: 20px;
+	
+
+}
+
+.block {
+	border: 1px  solid #d1d1e0;
+	padding: 10px 5px 3px 8px;
+	width: 300px;
+	margin:auto;
+border-style: outset;
+box-shadow: 10px 10px #d1d1e0;
+}
+
+.info1 {
+	font-style: italic;
+
+}
+.animal-list {
+	font-weight: bold;
+}
+
+li {
+	font-style: italic;
+	list-style: none;
+}
+
+.block-intro {
+	border: 1px solid #d1d1e0;
+	padding: 10px 5px 3px 8px;
+	margin:auto;
+
+}
+
+
